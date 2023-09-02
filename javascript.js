@@ -21,7 +21,5 @@ for (let i = 0; i < alumnos; i++) {
     }    
     
 }
-
 promedio = parseInt(sumaNotas) / parseInt(alumnos);
-
 console.log('el promedio del curso es: ' + promedio);
